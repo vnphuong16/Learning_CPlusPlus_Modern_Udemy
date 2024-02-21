@@ -1,0 +1,2 @@
+Udemy: https://www.udemy.com/course/beg-modern-cpp/
+Github author: https://github.com/umarmlone/beg_mod_cpp/tree/main
